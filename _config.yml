@@ -1,0 +1,14 @@
+layout_spectrum: 0.2538100820966065
+typography_spectrum: 0.146064599044621
+color:
+  brandStrength: 0.47985912463627756
+  lightness: 0.8871110663749278
+  saturation: 0.5489698892924935
+  rhythmicContrast: 0.09120152704417706
+  brandColors:
+    - '#CFC291'
+    - '#FFF6C5'
+    - '#A1E8D9'
+    - '#FF712C'
+    - '#695D46'
+name: Mindfuel
